@@ -6,7 +6,7 @@ info1 = created_date
 issue_date = input('Введите дату в формате 01.01.2025 или 01-01.2025 ')
 info2 = issue_date
 status = input('Статус ')
-content = input('Описание')
+content = input('Описание ')
 note = [
 name,
 content,
